@@ -37,7 +37,7 @@ For more information about the future of Keras, see [the Keras meeting notes](ht
 
 ------------------
 
-## Guiding principles
+############# Guiding principles  ###############
 
 - __User friendliness.__ Keras is an API designed for human beings, not machines. It puts user experience front and center. Keras follows best practices for reducing cognitive load: it offers consistent & simple APIs, it minimizes the number of user actions required for common use cases, and it provides clear and actionable feedback upon user error.
 
